@@ -1,1 +1,2 @@
-# BIRTHDAY
+# [BIRTHDAY REMINDER]
+Hey,its Farhana...This repository shows a Birthday reminder webpage...
